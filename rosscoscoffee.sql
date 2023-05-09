@@ -85,14 +85,14 @@ CREATE TABLE `coffee` (
 --
 
 INSERT INTO `coffee` (`coffeeID`, `coffeeName`, `coffeeDescription`, `coffeePrice`, `coffeePhoto`) VALUES
-(1, 'Cappuccino', 'A cappuccino is an espresso-based coffee drink that originated in Italy and is prepared with steamed milk foam.', '4.59', 'Cappuccino.png'),
-(2, 'Latte', 'Caffè latte, often shortened to just latte in English, is a coffee beverage of Italian origin made with espresso and steamed milk.', '4.69', 'Latte.png'),
-(3, 'Long black', 'A long black is a style of coffee commonly found in Australia and New Zealand.', '3.89', 'Long-black.png'),
-(4, 'Mocha', 'A caffè mocha, also called mocaccino, is a chocolate-flavoured warm beverage that is a variant of a caffè latte, commonly served in a glass rather than a mug. ', '4.99', 'Mocha.png'),
-(5, 'Hot chocolate', 'Hot chocolate, also known as hot cocoa or drinking chocolate, is heated chocolate milk. ', '5.99', 'Hot-chocolate.png'),
-(6, 'Flat white', 'A flat white is a coffee drink consisting of espresso with microfoam (steamed milk with small, fine bubbles and a glossy or velvety consistency).', '4.99', 'Flat-white.png'),
-(7, 'Matcha latte', 'A matcha latte consists of three simple ingredients: matcha powder, water and/or milk, and an optional sweetener. ', '6.29', 'Matcha-latte.png'),
-(8, 'Sakura latte', 'Sakura latte is a sweet and creamy warm drink that blends milk with cherry blossom powder. ', '6.29', 'Sakura-latte.png'),
+(1, 'Cappuccino', 'A cappuccino is an espresso-based coffee drink that originated in Italy and is prepared with steamed milk foam.', '4.59', 'cappuccino.png'),
+(2, 'Latte', 'Caffè latte, often shortened to just latte in English, is a coffee beverage of Italian origin made with espresso and steamed milk.', '4.69', 'latte.png'),
+(3, 'Long black', 'A long black is a style of coffee commonly found in Australia and New Zealand.', '3.89', 'long-black.png'),
+(4, 'Mocha', 'A caffè mocha, also called mocaccino, is a chocolate-flavoured warm beverage that is a variant of a caffè latte, commonly served in a glass rather than a mug. ', '4.99', 'mocha.png'),
+(5, 'Hot chocolate', 'Hot chocolate, also known as hot cocoa or drinking chocolate, is heated chocolate milk. ', '5.99', 'hot-chocolate.png'),
+(6, 'Flat white', 'A flat white is a coffee drink consisting of espresso with microfoam (steamed milk with small, fine bubbles and a glossy or velvety consistency).', '4.99', 'flat-white.png'),
+(7, 'Matcha latte', 'A matcha latte consists of three simple ingredients: matcha powder, water and/or milk, and an optional sweetener. ', '6.29', 'matcha-latte.png'),
+(8, 'Sakura latte', 'Sakura latte is a sweet and creamy warm drink that blends milk with cherry blossom powder. ', '6.29', 'sakura-latte.png'),
 (11, 'Super Coffee', 'Super Coffee keeps you awake more than 24 hours!!!', '99.49', '');
 
 -- --------------------------------------------------------
